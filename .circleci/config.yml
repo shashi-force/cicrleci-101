@@ -65,6 +65,6 @@ workflows:
       - deploy:
           requires:
             - testa
-            - teasb
+            
             
           
